@@ -13,11 +13,11 @@
   
   •	We also have three particular employees have their own info and demonstrated like the following: 
   
-   	Doctors, having their last names, Social Security numbers, scientific degrees, field, years of experience.
+   -	Doctors, having their last names, Social Security numbers, scientific degrees, field, years of experience.
   
-   	Nurses, having their last names, Social Security numbers, shift, and marital status. 
+   -	Nurses, having their last names, Social Security numbers, shift, and marital status. 
  
-   	Housekeepers, having their last names, Social Security numbers and working shifts.
+   -	Housekeepers, having their last names, Social Security numbers and working shifts.
 
   •	For each intensive care unit, there are its number, floor, and the landline phone number. Rooms also have this info in addition to the room capacity.
   
@@ -72,3 +72,24 @@
   •	Each Employee works in only one department with a certain salary, hiring date and working hours. The same department has many employees.
   
   •	Each employee can manage only one department and the department has only one manager. 
+
+
+# NOTES
+
+**TOTAL VS PARTIAL PARTICIPATION**
+
+We have 13 total participations against 21 partial participations.
+
+**RELATIONSHIPS ORDER**
+
+We have 3 ternary relationships against 14 binary relationships.
+
+**RELATIONSHIPS CARDINALITY**
+
+We have:
+
+-	6 one to one relationships,
+
+-	12 one to many relationships,
+
+-	2 many to many relationships. 
