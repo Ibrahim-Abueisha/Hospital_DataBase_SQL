@@ -80,9 +80,11 @@
 
 We have 13 total participations against 21 partial participations.
 
+
 **RELATIONSHIPS ORDER**
 
 We have 3 ternary relationships against 14 binary relationships.
+
 
 **RELATIONSHIPS CARDINALITY**
 
